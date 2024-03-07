@@ -5,3 +5,6 @@ def soma (a, b):
 #essa funcao subtrai
 def subtrai (a,b):
   return a - b
+
+def multiplicacao(a,b):
+  return a*b
