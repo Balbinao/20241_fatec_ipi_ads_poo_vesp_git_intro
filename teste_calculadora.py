@@ -7,4 +7,6 @@ def main():
   print(f'{a} - {b} = {subtracao}')
   multiplicacao = calculadora.multiplicacao(a,b)
   print(f'{a} - {b} = {multiplicacao}')
+  divisao = calculadora.divisao(a,b)
+  print(f'{a} - {b} = {divisao}')
 main()
